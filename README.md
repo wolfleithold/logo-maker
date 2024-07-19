@@ -18,20 +18,20 @@ It is an application that can generate a simple logo.
 
 ## Installation
 
-Ensure Node.js and npm are installed.
+Ensure Node.js and npm are installed. As well as jest, and inquirer.
 
 ## Usage
 
 Clone the repository. Navigate into the repository, then install the dependencies in the terminal (npm install).
 
+## Contributing
+
+Contribution Guidelines
+
 - Code of Conduct: Please adhere to our Code of Conduct in all your interactions with the project.
 - Testing: Ensure that your changes do not break any existing functionality and include tests if applicable.
 - Documentation: Update the documentation (including the README file) as necessary to reflect your changes.
   Thank you for contributing!
-
-## Contributing
-
-Contribution Guidelines
 
 ## License
 
