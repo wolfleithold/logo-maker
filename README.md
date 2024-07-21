@@ -8,13 +8,12 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [License](#license)
-7. [Questions](#questions)
+5. [License](#license)
+6. [Video-Tutorial](#tutorial)
 
 ## Description
 
-It is an application that can generate a simple logo.
+It is an application that can generate a simple logo. You can make a logo of any 3 characters, and with 3 shape possibilities such as a circle, square, or triangle.
 
 ## Installation
 
@@ -41,3 +40,7 @@ This project is licensed under the MIT License. See the [MIT License](https://op
 
 For any questions, please contact me at [wolfleithold@gmail.com](mailto:wolfleithold@gmail.com).
 You can also find me on GitHub: [wolfleithold](https://github.com/wolfleithold).
+
+## Tutorial
+
+[Video-Tutorial](https://drive.google.com/file/d/1fUmDZKIzA9eNbIlMtss8Mlk1xJI0HP5u/view)
